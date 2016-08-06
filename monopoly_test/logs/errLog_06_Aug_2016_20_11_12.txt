@@ -1,0 +1,29 @@
+ERROR, check out level: 0 param: 1 Current pos: 17 Next pos: 13
+
+LEVEL 0 PARAM 2 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 2 ==================
+
+LEVEL 0 PARAM 3 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 3 ==================
+
+LEVEL 0 PARAM 4 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 4 ==================
+
+LEVEL 0 PARAM 5 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 5 ==================
+
+LEVEL 0 PARAM 6 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 6 ==================
+
+LEVEL 0 PARAM 7 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 7 ==================
+
+LEVEL 0 PARAM 8 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 8 ==================
+
+LEVEL 0 PARAM 9 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 9 ==================
+
+LEVEL 0 PARAM 10 TYPE GAME TYPE CNT REQ 2 CUR CNT 1
+Above Wrong ==== In ===== LEVEL 0 == PARAM 10 ==================
+
